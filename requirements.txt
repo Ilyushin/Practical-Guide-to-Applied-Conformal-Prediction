@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+plotly
+scikit-learn
+
+nonconformist
+openml
+dtype_diet
+ipywidgets
